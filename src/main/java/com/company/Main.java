@@ -5,6 +5,12 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 import ru.javabegin.training.spring.impls.robot.ModelT1000;
 
+/*
+https://www.youtube.com/watch?v=xtBUoQnsJFg
+https://habrahabr.ru/post/150034/
+
+ */
+
 public class Main {
 
     public static void main(String[] args) {
